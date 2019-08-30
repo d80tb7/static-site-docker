@@ -1,2 +1,2 @@
 # static-site-docker
-simpel static website in docker
+simple static website in docker
